@@ -34,7 +34,7 @@ Depends: firmware (<9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.hackyouriphone.AppSync31_3.1_iphoneos-arm.deb
 Size: 289
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 9af30726f6c434e69241dadf0c392d18
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
